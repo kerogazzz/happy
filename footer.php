@@ -1,1 +1,3 @@
-<p>Goodbye!</p>
+<?require('js_footer.php');?>
+</body>
+</html>

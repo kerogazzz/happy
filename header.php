@@ -1,1 +1,3 @@
-<p>Hello World</p>
+<?require('js_top.php');?>
+</head>
+<body>
